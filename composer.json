@@ -1,0 +1,9 @@
+{
+    "name": "pushinbr/pam-psr-bridge",
+    "description": "Compatibility package for pushinbr/pam-psr.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "require": {
+        "pushinbr/pam-psr": "^1.1"
+    }
+}
