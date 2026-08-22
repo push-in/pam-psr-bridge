@@ -2,6 +2,7 @@
     "name": "pushinbr/pam-psr-bridge",
     "description": "Compatibility package for pushinbr/pam-psr.",
     "type": "metapackage",
+    "abandoned": "pushinbr/pam-psr",
     "license": "Apache-2.0",
     "require": {
         "pushinbr/pam-psr": "^1.1"
